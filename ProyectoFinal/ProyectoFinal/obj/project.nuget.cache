@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VOx/FuVfdJdpma4/5NZs6X7mpvjFSS/LTzT0lyR2lBCJWHlY2bmBheJhdEGzahYJSaZ8MEzDVacc0T+TrLY6aA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Annethy\\OneDrive\\Escritorio\\ITLA\\Cuarto cuatrimestre\\DCU\\INTENTO DE PROYECTO FINAL\\INTENTO 2 PF\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Annethy\\.nuget\\packages\\emgucv\\3.1.0.1\\emgucv.3.1.0.1.nupkg.sha512",
+    "C:\\Users\\Annethy\\.nuget\\packages\\opentk\\1.1.2225\\opentk.1.1.2225.nupkg.sha512",
+    "C:\\Users\\Annethy\\.nuget\\packages\\opentk.glcontrol\\1.1.2225\\opentk.glcontrol.1.1.2225.nupkg.sha512",
+    "C:\\Users\\Annethy\\.nuget\\packages\\zedgraph\\5.1.5\\zedgraph.5.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

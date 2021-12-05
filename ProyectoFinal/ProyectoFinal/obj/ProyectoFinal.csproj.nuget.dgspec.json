@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Annethy\\OneDrive\\Escritorio\\ITLA\\Cuarto cuatrimestre\\DCU\\INTENTO DE PROYECTO FINAL\\INTENTO 2 PF\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Annethy\\OneDrive\\Escritorio\\ITLA\\Cuarto cuatrimestre\\DCU\\INTENTO DE PROYECTO FINAL\\INTENTO 2 PF\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Annethy\\OneDrive\\Escritorio\\ITLA\\Cuarto cuatrimestre\\DCU\\INTENTO DE PROYECTO FINAL\\INTENTO 2 PF\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj",
+        "projectName": "ProyectoFinal",
+        "projectPath": "C:\\Users\\Annethy\\OneDrive\\Escritorio\\ITLA\\Cuarto cuatrimestre\\DCU\\INTENTO DE PROYECTO FINAL\\INTENTO 2 PF\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj",
+        "packagesPath": "C:\\Users\\Annethy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Annethy\\OneDrive\\Escritorio\\ITLA\\Cuarto cuatrimestre\\DCU\\INTENTO DE PROYECTO FINAL\\INTENTO 2 PF\\ProyectoFinal\\ProyectoFinal\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Annethy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "EmguCV": {
+              "target": "Package",
+              "version": "[3.1.0.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
